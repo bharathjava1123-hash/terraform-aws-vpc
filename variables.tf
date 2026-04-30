@@ -61,3 +61,7 @@ variable "aws_subnet_tags" {
   default     = {}
 }
 
+variable "route_table_tags" {
+  default     = {}
+}
+
